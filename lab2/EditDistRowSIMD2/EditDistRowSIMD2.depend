@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1714149800 source:c:\users\18027\desktop\parallelprogramming\lab2\editdistrowsimd2\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	<tmmintrin.h>
+	<smmintrin.h>
+	<nmmintrin.h>
+	<immintrin.h>
+

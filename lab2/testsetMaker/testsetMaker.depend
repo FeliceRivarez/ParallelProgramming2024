@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1714133451 source:c:\users\18027\desktop\parallelprogramming\lab2\testsetmaker\main.cpp
+	<iostream>
+	<fstream>
+	<time.h>
+
