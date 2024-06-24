@@ -1,0 +1,1 @@
+pssh -h $PBS_NODEFILE rm -rf /home/s2213218
